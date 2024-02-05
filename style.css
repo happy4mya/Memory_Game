@@ -1,0 +1,52 @@
+body {
+  box-sizing: border-box;
+  background: #fde740;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto 0;
+}
+
+section {
+  width: 80%;
+  text-align: center;
+
+}
+
+img {
+  width: 200px;
+  height: 100px;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Sulphur Point';
+  font-size: 6rem;
+  color: #f11212;
+  font-weight: 700;
+  margin: 20px 0px;
+  
+}
+
+#game div {
+
+  background-color: #220b3b;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 6px;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+  margin: 10px;
+  
+}
+
+#game div:hover{
+  border: 4px #fff solid;
+  border-radius: 6px;
+  cursor: pointer;
+  transform: scale(1.1);
+}
+

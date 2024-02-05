@@ -1,2 +1,2 @@
 # Memory Game
-Match all of the colors
+Match all of the colors 🌈
